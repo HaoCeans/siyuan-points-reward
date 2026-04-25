@@ -1,8 +1,8 @@
 {
-  "name": "points-reward",
+  "name": "siyuan-points-reward",
   "author": "whale🐋",
   "url": "https://github.com/HaoCeans/siyuan-points-reward",
-  "version": "0.0.1",
+  "version": "0.8.8",
   "minAppVersion": "3.0.0",
   "disabledInPublish": true,
   "backends": [
@@ -31,7 +31,7 @@
   },
   "settings": [
     {
-      "id": "points-reward-theme",
+      "id": "siyuan-points-reward-theme",
       "title": "主题颜色",
       "description": "自定义插件的主题颜色",
       "type": "string",
