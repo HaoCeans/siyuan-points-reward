@@ -2,7 +2,7 @@
   "name": "siyuan-points-reward",
   "author": "whale🐋",
   "url": "https://github.com/HaoCeans/siyuan-points-reward",
-  "version": "0.8.8",
+  "version": "0.8.1",
   "minAppVersion": "3.0.0",
   "disabledInPublish": true,
   "backends": [
