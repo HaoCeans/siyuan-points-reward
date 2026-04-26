@@ -1,6 +1,6 @@
 # Cultivation Tracker: Habit Check-in
 
-[简体中文](./README_zh_CN.md)
+[简体中文](https://github.com/HaoCeans/siyuan-points-reward/blob/main/README_zh_CN.md)
 
 > A SiYuan Note plugin inspired by "A Record of a Mortal's Journey to Immortality", helping you build daily habits through gamification.
 
